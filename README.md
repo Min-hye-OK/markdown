@@ -102,8 +102,8 @@ https://github.com/Min-hye-OK/markdown.git
 ![이미지 이름](이미지파일경로.jpg)
 ![이미지 이름](이미지파일URL)
 ```
-![고라니](https://ko.wikipedia.org/wiki/%EA%B3%A0%EB%9D%BC%EB%8B%88#/media/%ED%8C%8C%EC%9D%BC:Hydropotes_inermis_male.JPG)
-
+![고라니](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hydropotes_inermis_male.JPG/1200px-Hydropotes_inermis_male.JPG)
+  
 ## 코드 블럭 사용
 github gist에 바로 작성하는 경우 바로 변환되어 보이기 때문에 코드를 보여줄 수 없으므로   
 이를 해결하기 위한 문법
@@ -151,7 +151,7 @@ cd markdown
 ```
 cd명령어는 change directory명령으로 작업하고자 하는 directory로 이동하는 명령어이다.
 
-3. git add.
+3. git add " ~ "
 
 stage 영역은 commit할 파일들을 올려놓는 가상 영역인데,
 이 stage영역을 이용하여 작업내용 중 특정 파일들만 선별하여 commit에 반영할 수 있음
